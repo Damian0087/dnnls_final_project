@@ -97,6 +97,9 @@ ________________________________________
 •	Only a single loss function was used
 
 •	Evaluation relies on automatic metrics without human judgement
+
+**NOTE**: All quantitative results reported in this repository were obtained using the Colab notebook 35041005_Tony-Okonta.ipynb. After modularising the code into separate files, minor performance differences were observed due to changes in execution order and initialisation.
+
 ________________________________________
 **Future Work**
 
